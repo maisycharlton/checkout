@@ -1,0 +1,13 @@
+/* styles.css */
+
+body {
+
+  margin:;
+  padding: ;
+  background-image: url('media/self\ checkout\ background.png'); /* Adjust the path based on your folder structure */
+  background-size: 1440px, 900px;
+  //background-position: center;
+  background-attachment: fixed; /* Optional: Keeps the background fixed when scrolling */
+}
+
+
